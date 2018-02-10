@@ -1,3 +1,7 @@
+
+ PowerShell function that can convert a subnet mask from its Decimal Netmask to the CIDR “/” notation. This works for ANY Netmask length.
+
+
 git clone https://github.com/eoludotun/subnetCalculator.git
   
      
