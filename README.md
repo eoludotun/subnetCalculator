@@ -1,5 +1,4 @@
-Steps:
-  git clone https://github.com/eoludotun/subnetCalculator.git
+git clone https://github.com/eoludotun/subnetCalculator.git
   
        should the name not display properly , please rename it with .ps1
          run below commands 
