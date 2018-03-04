@@ -1,6 +1,7 @@
 <#
    .EXAMPLE 
            .\subnetCalculator.ps1 -IPAddress 192.168.0.1 -NetMask 255.255.255.0 
+
 #>
 
 
